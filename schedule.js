@@ -4,8 +4,8 @@
 
       Tipton Turbines
       Baseball Schedule Data
-      Author: 
-      Date:   
+      Author: Kshetragna Pitchuka
+      Date: 02/13/2026
 
       Filename: schedule.js
 */
